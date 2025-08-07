@@ -24,10 +24,10 @@ Insights to Highlight
 4. Relationship between volume and turnover changes
 
 
-   
-<img width="1222" height="961" alt="OverallAnalysis" src="https://github.com/user-attachments/assets/e005db46-a7f5-40e3-8151-46e24b6eae45" />
-<img width="1216" height="974" alt="DrillThrough" src="https://github.com/user-attachments/assets/e8151724-6495-4be3-a313-a593a6de03d9" />
-<img width="1224" height="963" alt="CovidImpact" src="https://github.com/user-attachments/assets/1117802b-2069-4956-b84b-3e2246319f43" />
+   <img width="1224" height="682" alt="OverallAnalysis1" src="https://github.com/user-attachments/assets/b2f08321-8a03-4785-8de5-91ff3f37170d" />
+<img width="1220" height="677" alt="DetailInfo" src="https://github.com/user-attachments/assets/2b3ff89a-350c-412a-acd2-b14d119e8edc" />
+<img width="1225" height="706" alt="CovidImpact1" src="https://github.com/user-attachments/assets/4c74e8ef-5498-48d1-a423-d3caf1e2067b" />
+
 
 
 
